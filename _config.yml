@@ -39,7 +39,7 @@ header:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/neuro_quanta'
+      url: 'https://x.com/DilipRajeswari'
       style: icon
       icon_class: twitter
       new_window: true
