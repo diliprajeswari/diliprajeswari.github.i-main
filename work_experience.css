@@ -157,17 +157,3 @@ section .section-title {
     font-size: 18px;
 }
 
-.card-body {
-    display: flex;
-    flex-direction: column; /* Stack items vertically */
-    justify-content: flex-end; /* Push items to the bottom */
-    align-items: center; /* Center items horizontally */
-    min-height: 300px; /* Ensure uniform height for all cards */
-}
-
-.card-body img {
-    margin-top: auto; /* Pushes the image to the bottom */
-    max-width: 100px; /* Ensures consistent width for logos */
-    height: auto; /* Maintains aspect ratio */
-    object-fit: contain; /* Keeps the entire image visible */
-}
