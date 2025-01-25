@@ -35,8 +35,7 @@ body {
 section {
     padding: 40px 0px;
     font-size: 18px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
-        'Lucida Sans', Arial, sans-serif;
+    font-family: 'Inter';
 }
 
 section .section-title {
