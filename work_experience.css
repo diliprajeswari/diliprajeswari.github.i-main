@@ -18,6 +18,10 @@ body {
     font-family: 'Inter';
 }
 
+.right-section {
+    background-color: #F1F1F1;
+}
+
 .btn-primary:hover,
 .btn-primary:focus {
     background-color: #108d6f;
